@@ -1,0 +1,10 @@
+const s=`<svg viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+    <circle cx="11" cy="11" r="11" fill="#C4C4C4"/>
+  </mask>
+  <g mask="url(#mask0)">
+    <path d="M-6 0H28.2222V11H-6" fill="white"/>
+    <path d="M-6 11H28.2222V22H-6" fill="#D52B1E"/>
+    <path d="M-6 7.33398H28.2222V14.6673H-6" fill="#0039A6"/>
+  </g>
+</svg>`;export{s as default};

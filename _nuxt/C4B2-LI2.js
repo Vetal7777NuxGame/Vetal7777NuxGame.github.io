@@ -1,0 +1,1 @@
+import{U as n,j as o,o as t,c,a as l,y as i,W as m}from"./DSD2pUNw.js";const p={class:"ng-progress-linear"},f=n({__name:"NgProgressLinear",props:{max:{},value:{}},setup(a){const{max:e,value:s}=a,r=o(()=>e?s/e*100:s);return(u,_)=>(t(),c("div",p,[l("div",{class:"linear-bar",style:i({width:`${m(r)}%`})},null,4)]))}});export{f as _};

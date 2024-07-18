@@ -1,0 +1,1 @@
+import{V as s,$ as r,a0 as u,p as n,az as h,Y as i}from"./DSD2pUNw.js";const p=()=>{const a=s(),t=r(),{showCustomSupportChat:o}=u(t);n(()=>o.value,e=>{e&&h(a({path:i.main_home}))},{immediate:!0})};export{p as u};

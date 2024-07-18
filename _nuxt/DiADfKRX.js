@@ -1,0 +1,1 @@
+import{$ as s,a0 as u,bj as c,bk as _}from"./DSD2pUNw.js";const C=t=>{const n="nuxPoint",e="__CODE__",a=s(),{getCurrencyIconExceptions:r,getCurrencyIconPattern:o}=u(a);return t===n?c:r.value&&r.value[t]?r.value[t]:(o.value??"").replace(e,t)??_};export{C as g};

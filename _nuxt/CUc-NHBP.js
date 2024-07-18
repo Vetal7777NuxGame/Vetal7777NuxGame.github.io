@@ -1,0 +1,1 @@
+import{U as e,ba as o,o as t,c,a5 as n}from"./DSD2pUNw.js";const r={class:"custom-loader"},l=e({__name:"BallsJumping",props:{color:{type:String,default:"--brand-400"}},setup(s){return o(a=>({"58a419cc":s.color})),(a,_)=>(t(),c("div",r))}}),d=n(l,[["__scopeId","data-v-13188583"]]);export{d as default};
