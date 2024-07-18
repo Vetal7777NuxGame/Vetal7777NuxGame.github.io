@@ -1,0 +1,1 @@
+import{a1 as u,a0 as r,V as c,_ as i,p as h,Y as n}from"./GLBH15dL.js";const m=e=>{const o=u(),{isLoggedIn:s}=r(o),a=c(),t=i();h(()=>s.value,async()=>{s.value||(e?await t.push(a(e.redirectTo)):await t.push(a(n.main_home)))},{immediate:!0})};export{m as u};

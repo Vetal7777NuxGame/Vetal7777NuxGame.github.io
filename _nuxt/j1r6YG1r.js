@@ -1,0 +1,1 @@
+import{a5 as r,o as s,c as o,d as c}from"./GLBH15dL.js";const t={},n={class:"error-msg"};function a(e,d){return s(),o("div",n,[c(e.$slots,"default",{},void 0,!0)])}const f=r(t,[["render",a],["__scopeId","data-v-62459c69"]]);export{f as E};

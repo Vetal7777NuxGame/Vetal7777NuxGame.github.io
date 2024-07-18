@@ -1,0 +1,1 @@
+import{bn as s,bo as e,av as i}from"./GLBH15dL.js";import{T as u}from"./56Y_7FHu.js";function c(a,n=e){const m=a.toString(),[t,r]=m.split(s),o=t.replace(u,n);return r?o+s+r:o}const l=()=>{const{PLATFORM_ID:a}=i().public;return{platformCommasFormat:(m,t,r,o)=>m.includes(a)?c(o?Math.trunc(t):t,r):t}};export{c as f,l as u};

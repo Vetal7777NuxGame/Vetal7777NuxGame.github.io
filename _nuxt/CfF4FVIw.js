@@ -1,0 +1,1 @@
+import{a5 as e,o as a,c as r,t as s,aw as t}from"./GLBH15dL.js";const n={};function c(o,_){return a(),r("h1",null,"/sportbook/"+s((o._.provides[t]||o.$route).params.id),1)}const l=e(n,[["render",c]]);export{l as default};
